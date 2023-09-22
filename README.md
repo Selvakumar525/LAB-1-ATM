@@ -31,6 +31,7 @@ to withdraw money,deposit.
 ### Communication Diagram:
 ![image](https://github.com/Selvakumar525/LAB-1-ATM/assets/120643262/3b96d3db-0511-4dc5-b84d-535433178739)
 ### Package:
-![software package](https://github.com/Selvakumar525/LAB-1-ATM/assets/120643262/31b392df-54cd-4a78-b83f-b73b7d9ad602)
+![image](https://github.com/Selvakumar525/LAB-1-ATM/assets/120643262/7aaf01f5-bdd8-4b13-ba5a-998b617b0a1a)
+
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
